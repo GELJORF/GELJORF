@@ -1,5 +1,5 @@
 - 👋 Bonjour, je suis @GELJORF
-- 👀 Je m'intéresse à la programmation et au développement numérique
+- 👀 Je m'intéresse à la programmation.
 - 💞️ Je souhaiterais collaborer à des projets en humanités numériques et en développement Web
 
 <!---
