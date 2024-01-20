@@ -1,6 +1,4 @@
 - 👋 Bonjour, je suis @GELJORF
-- 👀 Je m'intéresse à la programmation.
-- 💞️ Je souhaiterais collaborer à des projets en humanités numériques et en développement Web
 
 <!---
 GELJORF/GELJORF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
